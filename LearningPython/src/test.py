@@ -38,3 +38,4 @@ for x in range(1,10):
                 sum=x**3+y**3+z**3
                 if sum==100*x+10*y+z:
                     print(sum)
+
