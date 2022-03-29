@@ -1,0 +1,8 @@
+login:
+    url: "http://10.81.1.138:8085/login"
+    username: "//input[@placeholder=\"用户名\"]"
+    password: "//input[@placeholder=\"密码\"]"
+    user: "921921"
+    passwd: "888888"
+    login: "//*[text()='登 录']"
+    quit: "//i[@class='el-message-box__close el-icon-close']" 
